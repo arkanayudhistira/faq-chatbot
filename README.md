@@ -8,7 +8,7 @@ An interactive FAQ chatbot that answers user questions from internal FAQ documen
    
   ```
   git clone https://github.com/arkanayudhistira/faq-chatbot.git
-  cd <PROJECT DIRECTORY>
+  cd faq-chatbot
   ```
 
 2. Open the .env  file and replace the [GOOGLE_API_KEY](https://aistudio.google.com/app/apikey) and [PINECONE_API_KEY](https://app.pinecone.io/) with the API key from your account
