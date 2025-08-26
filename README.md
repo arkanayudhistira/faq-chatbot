@@ -4,7 +4,7 @@ An interactive FAQ chatbot that answers user questions from internal FAQ documen
 
 ## How to Use
 
-1. Clone the repository and navigate to the project director
+1. Clone the repository and navigate to the project directory:
    
    ```
    git clone https://github.com/arkanayudhistira/faq-chatbot.git
@@ -12,7 +12,7 @@ An interactive FAQ chatbot that answers user questions from internal FAQ documen
    ```
 
 2. Open the .env  file and replace the [GOOGLE_API_KEY](https://aistudio.google.com/app/apikey) and [PINECONE_API_KEY](https://app.pinecone.io/) with the API key from your account
-3. Run this command to build the Docker Image from the Dockerfile
+3. Run this command to build the Docker Image from the Dockerfile:
 
    ```
    docker build -t faq-chatbot .
